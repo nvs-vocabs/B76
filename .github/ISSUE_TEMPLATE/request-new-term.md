@@ -4,7 +4,9 @@ about: Template to submit a new term request to the BODC Platform Models control
   vocabulary (B76)
 title: 'NTR:'
 labels: New term
-assignees: gwemon---
+assignees: gwemon
+
+---
  
 ## Required
 ### Term name (PrefLabel)
